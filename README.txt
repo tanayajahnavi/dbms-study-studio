@@ -1,17 +1,18 @@
-DBMS Study Studio — Unit I + SQL Chapters 6 & 7
+DBMS Study Studio — Detailed Edition
 
-Files:
-- index.html: self-contained website (CSS and JavaScript embedded)
-
-How to use:
-1. Extract the ZIP.
-2. Open index.html in a modern browser to test locally.
-3. To update GitHub Pages, replace the corresponding site files in your repository with the contents of this folder, commit, and push.
-4. Check the live page after deployment.
+This is a standalone static website; open index.html in a modern browser.
 
 Included:
-- Unit I: databases/users, characteristics, advantages, data models, schema/instance, three-schema architecture, data independence, languages and DBMS environment.
-- SQL Chapter 6: data types, constraints, SELECT queries, INSERT/UPDATE/DELETE, DDL.
-- SQL Chapter 7: NULL, nested/correlated queries, aggregates, GROUP BY/HAVING, views, triggers and schema modification.
-- Query examples, expandable answers, search, dark/light theme, progress tracking.
-- Trigger syntax is marked conceptual because syntax differs by DBMS.
+- Detailed explanatory notes for Unit I Chapter 1 and Chapter 2
+- SQL Chapters 6 and 7: worked examples, syntax explanations, expected outputs, constraints, queries, nested/correlated subqueries, aggregates, views, triggers, schema modification
+- Previous exam-style conceptual practice with answers
+- Search, dark/light theme, responsive layout and topic progress tracking
+
+Source discipline:
+Your lecturer PDFs are image/scanned slide decks, so their text is not reliably extractable as plain text. The site follows the syllabus topics and their known chapter organisation, but it does not claim to reproduce every slide word-for-word. SQL trigger syntax is explicitly conceptual where dialect-dependent. Review diagrams against the exact slide image before reproducing them in an exam.
+
+To deploy:
+1. Extract the ZIP.
+2. Test index.html locally.
+3. Copy the site files into your GitHub Pages repository.
+4. Commit and push, then check the live deployment.
